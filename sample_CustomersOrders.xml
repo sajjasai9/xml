@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Root>
-  <Customers>
         <City>Eugene</City>
         <Region>OR</Region>
         <PostalCode>97403</PostalCode>
         <Country>USA</Country>
-    </Customer>
 </Root>
